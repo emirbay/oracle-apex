@@ -6,7 +6,7 @@ A collection of reusable JavaScript utilities and fixes for Oracle APEX applicat
 
 | Script | Description | Target APEX versions |
 |---|---|---|
-| [apex-popup-lov-fix.js](apex-popup-lov-fix.js) | Fixes Popup LOV lists not appearing after reopening a modal dialog. Removes leftover LOV dialogs from the DOM when the modal is closed or cancelled. | 20.2, 24 |
+| [apex-popup-lov-fix.js](scripts/apex-popup-lov-fix.js) | Fixes Popup LOV lists not appearing after reopening a modal dialog. Removes leftover LOV dialogs from the DOM when the modal is closed or cancelled. | 20.2, 24 |
 
 ## Usage
 
